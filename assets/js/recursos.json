@@ -1,0 +1,228 @@
+{
+    "productos":[
+        {"producto":{
+            "id":1,
+            "nombre":"Polera '<span>'Ciudad Distorsión'</span>'",
+            "categoria": ["ropa", "polera"],
+            "cantidad": 5,
+            "foto":"/sitio/etereava/assets/img/ciudadetereava2.jpg",
+            "descripcion":"Un fragmento de caos encapsulado en un cuadro: esta polera muestra una ciudad abstracta y distorsionada, como un recuerdo borroso de una noche sin tiempo. Inspirada en muros rayados, luces fragmentadas y arquitectura emocional, este diseño captura el alma de lo urbano desde una mirada introspectiva. Hecha para quienes habitan lo marginal, lo onírico, lo eterno.",
+            "precio":"$20.000 clp"
+        }
+    },{"producto":{
+            "id":2,
+            "nombre":"Polera '<span>'Escape Etéreo”'</span>'",
+            "categoria": ["ropa", "polera"],
+            "cantidad": 5,
+            "foto":"/sitio/etereava/assets/img/escape.jpg",
+            "descripcion":"Una pieza que vibra en la frecuencia de lo underground. Estética surreal, con un rostro de arlequín distorsionado que representa el caos interno y la dualidad del ser. La tipografía intervenida y los detalles gráficos hechos a mano la convierten en una prenda única, con alma. Ideal para quienes buscan expresión más allá de la moda convencional.",
+            "precio":"$20.000 clp"
+        }
+    },{"producto":{
+            "id":3,
+            "nombre":"Polera '<span>'Ciudad Estrellada'</span>'",
+            "categoria": ["ropa", "polera"],
+            "cantidad": 5,
+            "foto":"/sitio/etereava/assets/img/ciudadeterea2.jpg",
+            "descripcion":"Un trozo de cielo encapsulado en un cuadro: esta polera muestra una ciudad abstracta y distorsionada, como un recuerdo borroso de una noche sin tiempo. Inspirada en muros rayados, luces fragmentadas y arquitectura emocional, este diseño captura el alma de lo urbano desde una mirada introspectiva. Guiada por su propia estrella. Hecha para quienes habitan lo marginal, lo onírico, lo eterno.",
+            "precio":"$20.000 clp"
+        }
+    },{"producto":{
+            "id":4,
+            "nombre":"Hoodie'<span>'Etereava'</span>'",
+            "categoria": ["ropa", "poleron"],
+            "cantidad": 5,
+            "foto":"/sitio/etereava/assets/img/hoodiesol2.jpg",
+            "descripcion":"Polerón unisex con diseño original en serigrafía. Cómodo, versátil y con un print que destaca. Ideal para el día a día o para darle un toque único a tu outfit. Estampado resistente al lavado.",
+            "precio":"$30.000 clp"
+        }
+    },{"producto":{
+            "id":5,
+            "nombre":"Hoodie '<span>'Insides'</span>'",
+            "categoria": ["ropa", "poleron"],
+            "cantidad": 5,
+            "foto":"/sitio/etereava/assets/img/insidehoodie2.jpg",
+            "descripcion":"Polerón único con técnica de bleaching artesanal. Cada pieza es intervenida a mano, lo que la hace irrepetible. Estilo urbano con carácter, ideal para destacar. Hecho en algodón suave y cómodo.",
+            "precio":"$30.000 clp"
+        }
+    }
+    ],
+   "novedades": [
+  {
+    "entradas": {
+      "titulo": "Luz y Ruido: Etereava abre ciclo en Valparaíso",
+      "fecha": "2024-05-03",
+      "cuerpo": "En un rincón húmedo del puerto, entre murallas oxidadas y neones parpadeantes, ETEREAVA desplegó su ritual. El ciclo 'Luz y Ruido' fue inaugurado con una propuesta que entretejió spoken word, electrónica densa y luces bajas. Cada track fue una confesión. Cada pausa, una herida. Lo urbano y lo íntimo se fundieron en un concierto donde el tiempo pareció detenerse. Valparaíso respondió con silencio reverente, dejando que la vibración hablara.",
+      "foto": "/sitio/etereava/assets/img/e9.jpg",
+      "galeria": [
+        "/sitio/etereava/assets/img/novedad1-1.jpg",
+        "/sitio/etereava/assets/img/novedad1-2.jpg"
+      ]
+    }
+  },
+  {
+    "entradas": {
+      "titulo": "Nuevo videoclip: 'Desear' como mapa emocional",
+      "fecha": "2024-08-10",
+      "cuerpo": "Con un enfoque que mezcla lo documental y lo onírico, ETEREAVA estrena el videoclip de 'Desear'. Grabado entre Santiago y Berlín, el material visual complementa la narrativa íntima del disco, abordando el deseo como un territorio que se desplaza entre lo corporal, lo perdido y lo posible. Entre humo, telas y luces frías, el video transforma la canción en una experiencia sensorial donde la voz se funde con el espacio.",
+      "foto": "/sitio/etereava/assets/img/e4.jpg",
+      "galeria": []
+    }
+  },
+  {
+    "entradas": {
+      "titulo": "Residencia sonora en Loophole Berlín",
+      "fecha": "2023-11-21",
+      "cuerpo": "Durante dos semanas, ETEREAVA habitó los pasillos de Loophole en Berlín, convirtiéndolos en laboratorio sensorial. La residencia culminó con una performance site-specific que integró grabaciones de campo, visuales en vivo y relatos de migración. Un ejercicio de exploración del espacio como cuerpo, del sonido como historia. La obra resultante, aún sin título, quedará registrada como parte de la serie 'Espacios del deseo'.",
+      "foto": "/sitio/etereava/assets/img/e12.jpg",
+      "galeria": [
+        "/sitio/etereava/assets/img/e13.jpg"
+      ]
+    }
+  }
+],
+
+    "eventos":[
+        {"evento":{
+            "id":1,
+            "etiqueta": "pasado",
+            "nombre":"Etereava Live at George Taver",
+            "lugar": "London",
+            "fecha":"2022",
+            "descripcion":"En esta performance íntima y experimental, ETEREAVA fusiona sonido electrónico, spoken word y cuerpo en movimiento para construir una narrativa emocional. Utiliza bases digitales ralentizadas y voz en vivo para explorar el deseo, la pérdida y la entrega. La escena es minimalista y visualmente poética, donde el cuerpo y el sonido se convierten en vehículo expresivo. Es una obra híbrida entre concierto y poesía performática, que ofrece una experiencia audiovisual envolvente y profundamente introspectiva.",
+            "foto": "/sitio/etereava/assets/img/event1.JPG",
+            "registro": "<iframe width='560' height='315' src='https://www.youtube.com/embed/GZy-2PkEXTE?si=V1UJZApMn-rJEDNj' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
+        }},{"evento":{
+            "id":2,
+            "etiqueta": "pasado",
+            "nombre":"Etereava Live at Redrum Art Bar",
+            "lugar": "Berlín",
+            "fecha":"2022",
+            "descripcion":"En el subsuelo del Redrum Art Bar, entre paredes manchadas de historia y murmullos de otros tiempos, Etereava tejió un paisaje sonoro íntimo y abrasador. La atmósfera, cargada de luces rojas y sombras danzantes, fue el marco perfecto para una performance donde la vulnerabilidad se volvió presencia escénica. Allí, la artista transformó el espacio en un útero vibrante de emociones, donde cada acorde invocaba memoria, deseo y exilio. Berlín escuchó en silencio, como si supiera que estaba presenciando algo más que un concierto: una aparición.",
+            "foto": "/sitio/etereava/assets/img/redr-1.jpg",
+            "registro": {
+                "video": "<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/xvwYSK66DAk?si=QUG7jcq07v27QX8m' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
+                "galeria": [
+                    "/sitio/etereava/assets/img/redr-1.jpg",
+                    "/sitio/etereava/assets/img/redr-2.jpg",
+                    "/sitio/etereava/assets/img/redr-3.jpg"
+                ]
+            }
+        }},{"evento":{
+            "id":3,
+            "etiqueta": "pasado",
+            "nombre":"Etereava Live at Loophole",
+            "lugar": "Berlín",
+            "fecha":"2022",
+            "descripcion":"Loophole no fue solo una locación, fue una extensión de la sensibilidad de Etereava. En ese espacio de convergencias creativas y muros gastados, la artista emergió como una silueta translúcida entre luces estroboscópicas y respiraciones digitales. El sonido, a veces punzante, otras veces susurrado, se expandía como agua sobre piedra, habitando cuerpos y superficies. La escena fue íntima, ritual y eléctrica. Un trance colectivo donde lo experimental se volvió lenguaje común, y donde cada silencio decía tanto como cada nota.",
+            "foto": "/sitio/etereava/assets/img/event2.jpg",
+            "registro": "<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/XOsVbCX-VMQ?si=FLr2qDAa1JHg3i0w' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
+        }},{"evento":{
+            "id":4,
+            "etiqueta": "pasado",
+            "nombre":"Etereava en vivo en Centro Perdido",
+            "lugar": "Santiago de Chile",
+            "fecha":"2023",
+            "descripcion": "En el corazón oculto de Santiago, Etereava tomó el escenario del Centro Perdido como quien abre un portal. Rodeada de luces mínimas y arquitectura quebrada, su voz resonó como eco de un sueño que se desdobla lentamente. El cuerpo, como extensión del sonido, se convirtió en herramienta expresiva, y la ciudad —por un momento— pareció detener su pulso para escuchar. Fue un encuentro crudo y espiritual, donde la artista convirtió el espacio en altar y la música en exorcismo.",
+            "foto": "/sitio/etereava/assets/img/event1.jpg",
+            "registro": ""
+        }},{"evento":{
+            "id":5,
+            "etiqueta": "pasado",
+            "nombre":"Etereava en vivo en El Faro",
+            "lugar": "Valparaíso",
+            "fecha":"2024",
+            "descripcion": "Entre brumas y cerros, en un Valparaíso suspendido entre lo mágico y lo decadente, Etereava se presentó en El Faro con una propuesta que desbordó todos los sentidos. La luz tenue y los destellos electrónicos generaron una atmósfera cargada de belleza extraña. Cada canción fue un viaje hacia lo profundo, hacia ese lugar donde la emoción no se explica, se siente. El público, envuelto en esa marea íntima, no solo escuchó: flotó.",
+            "foto": "/sitio/etereava/assets/img/event3.jpg",
+            "registro": "<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/PPqh9WE6sEk?si=G5GPzWiwJgf7dBal' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
+        }},{"evento":{
+            "id":6,
+            "etiqueta": "pasado",
+            "nombre":"Etereava en Galería Cima ",
+            "lugar": "Santiago de Chile",
+            "fecha":"2024",
+            "descripcion":"En Galería Cima, rodeada de visualidades contemporáneas, Etereava propuso una performance que fue más que música: fue cuerpo expandido, sonido encarnado. La artista se deslizó entre capas de melodías procesadas y gestos escénicos, rompiendo las fronteras entre el arte sonoro y lo performático. El espacio blanco de la galería se volvió piel sensible, vibrante, receptiva. Fue un acto de traducción emocional, donde la música no solo se oyó, sino que se sintió como una caricia espectral.",
+            "foto": "/sitio/etereava/assets/img/event4.png",
+            "registro": "<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/PPqh9WE6sEk?si=G5GPzWiwJgf7dBal' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
+        }},{"evento":{
+            "id":7,
+            "etiqueta": "pasado",
+            "nombre":"Etereava en Desfile Plastictoys",
+            "lugar": "Santiago de Chile",
+            "fecha":"2024",
+            "descripcion":"En un desfile que celebró lo alternativo, lo plástico y lo mutante, Etereava irrumpió como una entidad translúcida entre siluetas y sonidos. Su aparición fue una intervención: el tiempo se desaceleró, las luces cambiaron de temperatura, y la pasarela se transformó en ritual. Lo sonoro se fundió con lo visual, y lo corporal se volvió manifiesto poético. Su acto no fue acompañamiento: fue núcleo, fue médula. En medio del desfile, la artista marcó su propio tempo y dejó su huella impalpable.",
+            "foto": "/sitio/etereava/assets/img/event5.jpg",
+            "registro": ""
+        }},{"evento":{
+            "id":8,
+            "etiqueta": "pasado",
+            "nombre":"Etereava en La Tele",
+            "lugar": "Santiago de Chile",
+            "fecha":"2024",
+            "descripcion":"En una aparición inesperada y luminosa, Etereava llevó su atmósfera onírica al espacio televisivo, transformando el estudio en un escenario íntimo y casi irreal. A través de capas de sonido procesado, melodías sombrías y palabras que flotaban más que hablaban, la artista invocó una energía distinta: la de lo sutil irrumpiendo en la rutina. Su vestuario, su gesto, su voz —todo estaba pensado como parte de un rito silencioso, una forma de quebrar la linealidad de la pantalla y permitir que lo emocional se filtrara. En medio de luces frías y cámaras ajenas, Etereava logró algo extraordinario: hacer del directo televisivo un acto de resistencia poética.",
+            "foto": "/sitio/etereava/assets/img/event6.jpg",
+            "registro": "<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/PPqh9WE6sEk?si=G5GPzWiwJgf7dBal' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
+        }},{"evento":{
+            "id":9,
+            "etiqueta": "pasado",
+            "nombre":"Etereava en Festival Sonar",
+            "lugar": "Valparaíso",
+            "fecha":"2024",
+            "descripcion":"En el corazón vibrante de Valparaíso, entre neblina costera y arquitectura decadente, Etereava se presentó en el Festival Sonar con una puesta en escena que desbordó los límites del concierto convencional. La artista emergió entre luces púrpura y humo espeso, llevando consigo una narrativa íntima y visceral donde la música se entrelazó con la corporalidad y la imagen. Acompañada por proyecciones líquidas y un paisaje sonoro denso, desplegó una performance que convocó al deseo, al duelo y a la memoria. Más que una presentación, fue un acto de invocación: un llamado a sentir sin filtros, a habitar lo frágil, a transformar el escenario en altar.",
+            "foto": "/sitio/etereava/assets/img/sonarpp.jpg",
+            "registro": [
+              "/sitio/etereava/assets/img/sonarg1.jpg",
+              "/sitio/etereava/assets/img/e14.jpg",
+              "/sitio/etereava/assets/img/e15.jpg"
+              ]
+        }},{
+  "evento": {
+    "id": 10,
+    "etiqueta": "futuro",
+    "nombre": "Latido Solidario – Etereava en Vivo por el Sur",
+    "lugar": "Santiago de Chile",
+    "fecha": "11-07-2025",
+    "descripcion": "En un acto de arte y solidaridad, Etereava se presentará el 11 de julio en Santiago en un concierto a beneficio de las comunidades afectadas por los recientes incendios en el sur de Chile. Esta será una noche donde la música se ofrecerá como consuelo, como abrigo sonoro para quienes han perdido tanto. La artista invocará lo íntimo y lo colectivo, con una puesta en escena minimalista y sensible, donde cada acorde será un gesto de cuidado, y cada palabra una forma de resistencia poética. ‘Latido Solidario’ no es solo un concierto: es un llamado a reconstruir desde la emoción compartida.",
+    "foto": "/sitio/etereava/assets/img/ev-prox.png",
+    "registro": ""
+  }
+},{
+  "evento": {
+    "id": 11,
+    "etiqueta": "futuro",
+    "nombre": "Sueño de Mares Eléctricos – Etereava en la Costanera",
+    "lugar": "Valparaíso",
+    "fecha": "23-08-2025",
+    "descripcion": "Este 23 de agosto, Etereava regresa a Valparaíso con 'Sueño de Mares Eléctricos', una obra sonora y visual inspirada en los océanos interiores, los puertos abandonados y las canciones que surgen entre ruinas. Será una experiencia envolvente en la que se cruzarán sintetizadores como olas, luces en forma de espuma, y movimientos que evocan náufragos de otras realidades. La música se desbordará sobre muelles simbólicos, creando un espacio donde la nostalgia y la euforia se abrazan. Una cita imperdible para quienes buscan sumergirse en el arte como viaje sensorial.",
+    "foto": "/sitio/etereava/assets/img/ev-prox2.png",
+    "registro": ""
+  }
+}
+],
+    "discos":[
+        {"disco":{
+            "id": 1,
+            "nombre": "Fatalismo Idealizado",
+            "fecha": 2020,
+            "estilos": "“FATALISMO IDEALIZADO” es un viaje auditivo que combina electrónica experimental y sintética, atmósferas oscuras y densas, y una narrativa temática sobre vacío, mortalidad y destino. Con ecos de estética darkwave y multimedia performativa, el set ofrece un relato musical envolvente y cinematográfico.",
+            "portada": "/sitio/etereava/assets/img/fatalismoportada.jpg",
+            "playlist": "<iframe width='100%' height='450' scrolling='no' frameborder='no' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1250642203&color=%23562d7f&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true'></iframe><div style='font-size: 10px; color: #cccccc; line-break: anywhere; word-break: normal; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif; font-weight: 100;'><a href='https://soundcloud.com/etereava' title='ETEREAVA' target='_blank' style='color: #cccccc; text-decoration: none;'>ETEREAVA</a> · <a href='https://soundcloud.com/etereava/sets/fatalismo-idealizado' title='FATALISMO IDEALIZADO' target='_blank' style='color: #cccccc; text-decoration: none;'>FATALISMO IDEALIZADO</a></div>"
+        }},
+        {"disco":{
+            "id":2,
+            "nombre": "Desear",
+            "fecha": 2024,
+            "estilos": "El set “DESEAR” es una mezcla rica de electrónica experimental, trip‑hop emocional, cumbia urbana reinventada y folklore con acordeón, todo envuelto en una narrativa personal que viaja entre Chile, Londres y Berlín. Las canciones combinan introspección y deseo con una estética visual performática.",
+            "portada": "/sitio/etereava/assets/img/desearportada.jpg",
+            "playlist": "<iframe width='100%' height='450' scrolling='no' frameborder='no' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1578780730&color=%23562d7f&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true'></iframe><div style='font-size: 10px; color: #cccccc; line-break: anywhere; word-break: normal; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif; font-weight: 100;'><a href='https://soundcloud.com/etereava' title='ETEREAVA' target='_blank' style='color: #cccccc; text-decoration: none;'>ETEREAVA</a> · <a href='https://soundcloud.com/etereava/sets/desear' title='DESEAR' target='_blank' style='color: #cccccc; text-decoration: none;'>DESEAR</a></div>"
+        }}
+    ],
+    "galeria-sobremi":[
+        "/sitio/etereava/assets/img/e3.jpg",
+        "/sitio/etereava/assets/img/sm-4.jpg",
+        "/sitio/etereava/assets/img/sm-1.JPG",
+        "/sitio/etereava/assets/img/sm-2.jpg",
+        "/sitio/etereava/assets/img/e11.jpg"
+        
+    ]
+}

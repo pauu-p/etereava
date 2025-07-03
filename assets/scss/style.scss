@@ -1,0 +1,231 @@
+@import '../bootstrap-5.3.6/scss/bootstrap.scss';
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Griffy&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Truculenta:opsz,wght@12..72,100..900&display=swap');
+
+//VARIABLES
+
+//COLORES
+$color_pp: #924ed6;;
+$color_dest: #c71726;
+$color_terc: #8d8d8d;
+$color_fuente: #493449;
+$color_btn: #53181b;
+$color_background: #f3f4f7;
+
+
+//FUENTES 
+$titulares: "Griffy", system-ui;
+$parrafos: "Inter", sans-serif;
+
+//Tamaños 
+$h1:80px;
+$p-size: 15px;
+$h2:40px;
+
+
+//BTN
+$btn-primary-hover-bg: $color_dest;
+
+//Parámetros
+h1,h2,h3,h4,li{
+    font-family: $titulares;
+}
+h1{
+    font-size: $h1;
+    color: $color_background;
+}
+h2{
+    font-size: $h2;
+}
+p,a{
+    font-family: $parrafos;
+   
+    font-size: $p-size;
+}
+
+
+
+// generales 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: $color_background;
+}
+.logo-nav{
+    width: 50px;
+    margin-left: 30px;
+}
+#navbar{
+    margin-right: 30px;
+    li{
+        margin-left: 10px;
+    }
+}
+#logo-footer{
+    width: 160px;
+    height: 160px;
+    margin: 20px 40px;
+}
+footer{
+    .nav-link{
+        color:$color_background
+    }
+    svg{
+        margin-left: 40px;
+        width: 40px;
+        height: 30px;
+        color: $color_background;
+        align-items: center;
+    }
+}
+#nav-footer{
+    margin-bottom: 50px;
+}
+
+#etereava-letras{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+.letras{
+    width: 600px;
+}
+.titular-banner{
+    padding-top: 350px;
+    padding-left: 75px;
+    
+}
+.btn:hover{
+    background-color: $color_dest;
+    border-color: $color_dest;
+    
+}
+.link-evento{
+    text-decoration: none;
+    color: $color_background;
+    font-family: $titulares;
+}
+.link-evento:hover{
+    text-decoration: dotted;
+    color: $color_pp;
+}
+.spanfecha{
+    color: $color_terc;
+}
+
+//INDEX
+.index-banner{
+    background-image: url('../img/banner1.png');
+    height: 750px;
+    width: 100%;
+    background-size: cover;
+    
+}
+.index-content{
+    width: 90%;
+}
+.fecha{
+    color: $color_fuente;
+    font-size: 14px;
+}
+#productosIndex {
+    overflow: hidden;
+  --f-carousel-slide-height: 40%;
+  --f-carousel-spacing: 10px;
+
+  height: 500px;
+}
+.card-img-top{
+    height: 300px;
+    object-fit: contain;
+}
+.foto-eventoIn{
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+}
+
+// SOBRE
+
+.swiper .swiper-sobre{
+      width: 100%;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      height: 700px;
+    }
+
+    .swiper-slide {
+        width: 300px;       
+        height: 100%;     
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .swiper-slide img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;    
+    }
+
+.iconSM{
+    width: 60px;
+}
+//DISCOS
+#banner-discog{
+    background-image: url('../img/e16.jpg');
+    height: 700px;
+    background-size: cover;
+}
+
+.capa-hover{
+    display: flex;
+   
+   
+}
+//EVENTOS 
+#banner-eventos{
+    background-image: url('../img/e21.png');
+     height: 700px;
+    background-size: cover;
+}
+.eventos{
+    height: 220px;
+   
+}
+
+//BLOG
+#banner-blog{
+    background-image: url('../img/e22.png');
+     height: 700px;
+    background-size: cover;
+}
+.foto-entradas{
+    width: 100px;
+    height: 200px;
+    object-fit: contain;
+}
+
+.swiper-entradas .swiper-slide {
+  width: 300px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  padding: 10px;
+}
+
+.swiper-entradas .swiper-slide img {
+  width: 100%;
+  height:300px !important;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+
+
